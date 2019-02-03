@@ -28,6 +28,9 @@ Note that guides to using the programs are placed before guides specific to Spac
     - Recommended by: enenra
 
 ### Block Icons
+- [Making Block Icons for SE (by enenra)](https://gist.github.com/enenra/751d2ca2a04262f53a8eebe83ede79d8)
+    - A Photoshop tutorial for creating GUI icons for original blocks.
+    - Recommended by: enenra
 
 ### Emissives
 - [Kreeg's Emissives Tutorial](tutorials/emissives-kreeg.md)
