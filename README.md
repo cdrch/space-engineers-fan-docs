@@ -1,6 +1,25 @@
 # Space Engineers Fan Docs
 A collection of tutorials, snippets, and other information about creating scripts and mods for Space Engineers.
 
+## Table Of Contents
+- [General Notes](#General-Notes)
+- [Scripting](#Scripting)
+- [Modding](#Modding)
+    - [How To Get Started](#How-To-Get-Started)
+    - [Basic Modding Setup](#Basic-Modding-Setup)
+    - [3D Modelling And Texturing](#3D-Modelling-And-Texturing)
+        - [Blender](#Blender)
+        - [3ds Max](#3ds-Max)
+    - [Block Icons](#Block-Icons)
+    - [Audio](#Audio)
+    - [Emissives](#Emissives)
+    - [Planets](#Planets)
+    - [Weapons](#Weapons)
+    - [Miscellaneous](#Miscellaneous)
+- [Other](#Other)
+    - [ARMCO Space Engineers Star Wars Project](#Other)
+- [Contributing](#Contributing)
+
 ## General Notes
 
 When asking for help:
@@ -57,22 +76,23 @@ Note that guides to using the programs are placed before guides specific to Spac
     - A Photoshop tutorial for creating GUI icons for original blocks.
     - Recommended by: enenra
 
+
+### Audio
+- [Creating Block Sounds for SE (by enenra)](https://gist.github.com/enenra/a6024d4e62311409236336190c0095ad)
+    - A tutorial for creating sounds for blocks using Audacity.
+    - Recommended by: enenra
+
 ### Emissives
 - [Kreeg's Emissives Tutorial](tutorials/emissives-kreeg.md)
     - An explanation of how to make emissives on blocks work.
     - Recommended by: Kreeg
 
-### Audio Modding
-- [Creating Block Sounds for SE (by enenra)](https://gist.github.com/enenra/a6024d4e62311409236336190c0095ad)
-    - A tutorial for creating sounds for blocks using Audacity.
-    - Recommended by: enenra
-
-### Planet Modding
+### Planets
 - [Doctor Octoganapus's Planet Modding Tutorial](https://www.youtube.com/watch?v=UA4P3I0aYOg)
     - An explanation of how to mod planetoids.
     - Recommended by: Spacebar
 
-### Weapon Modding
+### Weapons
 - [Spacebar's Gatling Gun Tutorial](tutorials/tutorial-on-gats-spacebar.md)
     - An explanation of how to create gatling gun-based weapons.
     - Recommended by: Spacebar
