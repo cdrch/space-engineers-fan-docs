@@ -1,6 +1,9 @@
 # Space Engineers Fan Docs
 A collection of tutorials, snippets, and other information about creating scripts and mods for Space Engineers.
 
+## Scripting
+None yet!
+
 ## Modding
 Tutorials are generally ordered by difficulty or usefulness, and otherwise are in alphabetical order.
 
@@ -57,8 +60,6 @@ Note that guides to using the programs are placed before guides specific to Spac
     - Recommended by: Spacebar
 
 ### Miscellaneous
-
-## Scripting
 
 ## Contributing
 
