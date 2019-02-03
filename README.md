@@ -61,7 +61,7 @@ Note that guides to using the programs are placed before guides specific to Spac
 
 ### Audio Modding
 - [Creating Block Sounds for SE (by enenra)](https://gist.github.com/enenra/a6024d4e62311409236336190c0095ad)
-    - A tutorial for creating sounds for blocks.
+    - A tutorial for creating sounds for blocks using Audacity.
     - Recommended by: enenra
 
 ### Planet Modding
