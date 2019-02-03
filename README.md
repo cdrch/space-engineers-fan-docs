@@ -24,7 +24,7 @@ A collection of tutorials, snippets, and other information about creating script
 ### Emissives
 - [Kreeg's Emissives Tutorial](tutorials/emissives-kreeg.md)
     - An explanation of how to make emissives on blocks work.
-    - Recommended by Kreeg
+    - Recommended by: Kreeg
 
 ### Sound Block Modding
 
