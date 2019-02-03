@@ -24,6 +24,13 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
 - [Space Engineers - How to setup Visual Studio and create a simple mod](https://www.youtube.com/watch?v=gAh1bNfRLPw)
     - An official tutorial by Keen Software House to setup Visual Studio (a useful programming tool) and use it to make a simple mod.
     - Recommended by: Zkillerproxy, Kreeg
+- Kreeg's Examples
+    - [Example Model](/tutorials/examples/ExampleModGuide.zip)
+        - A sample model, ready for use in a mod as an example.
+        - Recommended by: Kreeg
+    - [Example Mod](/tutorials/examples/Example_LocalMods_101.zip)
+        - A sample local mod, ready for use in Space Engineers as an example.
+        - Recommended by: Kreeg
 
 ### 3D Modelling And Texturing
 Note that guides to using the programs are placed before guides specific to Space Engineers.
