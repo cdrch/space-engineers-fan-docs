@@ -1,4 +1,4 @@
-# space-engineers-fan-docs
+# Space Engineers Fan Docs
 A collection of tutorials, snippets, and other information about creating scripts and mods for Space Engineers.
 
 ## Modding
