@@ -25,10 +25,10 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
     - An official tutorial by Keen Software House to setup Visual Studio (a useful programming tool) and use it to make a simple mod.
     - Recommended by: Zkillerproxy, Kreeg
 - Kreeg's Examples
-    - [Example Model](/tutorials/examples/ExampleModelGuide.zip)
+    - [Example Model](https://github.com/cdrch/space-engineers-fan-docs/raw/master/tutorials/examples/ExampleModelGuide.zip)
         - A sample model, ready for use in a mod as an example.
         - Recommended by: Kreeg
-    - [Example Mod](/tutorials/examples/Example_LocalMods_101.zip)
+    - [Example Mod](https://github.com/cdrch/space-engineers-fan-docs/raw/master/tutorials/examples/Example_LocalMods_101.zip)
         - A sample local mod, ready for use in Space Engineers as an example.
         - Recommended by: Kreeg
 
