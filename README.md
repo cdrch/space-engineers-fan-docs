@@ -73,6 +73,14 @@ Note that guides to using the programs are placed before guides specific to Spac
 - [Spacebar's Gatling Gun Tutorial](tutorials/tutorial-on-gats-spacebar.md)
     - An explanation of how to create gatling gun-based weapons.
     - Recommended by: Spacebar
+- Kreeg's Making Custom Weapons
+    - [Part 1: The Basic Foundation](https://github.com/cdrch/space-engineers-fan-docs/raw/master/tutorials/examples/Example_WeaponModding_theBasicFoundation.zip)
+        - An intro to creating custom weapons by example.
+        - Recommended by: Kreeg
+    - [Part 2: Custom Data](https://github.com/cdrch/space-engineers-fan-docs/raw/master/tutorials/examples/Example_WeaponModding_CustomData.zip)
+        - A continuation. Still no models, but handles custom data for ammunition, weapons, and magazines.
+        - Recommended by: Kreeg
+    - Part 3: In Progress
 
 ### Miscellaneous
 
