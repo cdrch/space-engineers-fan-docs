@@ -10,6 +10,9 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
 - [Shaostoul's Mod Folder Setup (V3)](https://www.youtube.com/watch?v=najofqN1XIs)
     - A tutorial in how to setup the basic files and folders needed to mod Space Engineers.
     - Recommended by: Spacebar
+- [Space Engineers - How to setup Visual Studio and create a simple mod](https://www.youtube.com/watch?v=gAh1bNfRLPw)
+    - An official tutorial by Keen Software House to setup Visual Studio (a useful programming tool) and use it to make a simple mod.
+    - Recommended by: Zkillerproxy, Kreeg
 
 ### 3D Modelling And Texturing
 Note that guides to using the programs are placed before guides specific to Space Engineers.
