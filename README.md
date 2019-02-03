@@ -6,6 +6,8 @@ A collection of tutorials, snippets, and other information about creating script
 ### How To Get Started
 
 ### Basic Modding Setup
+- [Shaostoul's Mod Folder Setup (V3)](https://www.youtube.com/watch?v=najofqN1XIs)
+    - A tutorial in how to setup the basic files and folders needed to mod Space Engineers.
 
 ### 3D Modelling And Texturing
 
