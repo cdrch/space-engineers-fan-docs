@@ -22,6 +22,9 @@ A collection of tutorials, snippets, and other information about creating script
 ### Block Icons
 
 ### Emissives
+- [Kreeg's Emissives Tutorial](/tutorials/emissives-kreeg)
+    - An explanation of how to make emissives on blocks work.
+    - Recommended by Kreeg
 
 ### Sound Block Modding
 
