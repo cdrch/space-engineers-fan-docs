@@ -1,0 +1,104 @@
+Hello, this is my present Data table on the Subject:
+Available \ Users Presently involved that can be directly accounted for consistantly; Lucas\Merdi , Spacebar, Kreeg
+Divisions: Lucas (AI , Spawn Systems, Script Systems), Spacebar (Rebellion Fightercraft) , Kreeg (Imperial Fightercraft, General Data)
+In Progress: 
+- AI System: Very acceptable level, impressive visuals & aplications.
+- Rebellion Fightercraft: A-Wing complete. X-Wing, Complications being resolved.
+- Imperial Fightercraft: Basis Chassis & Basic Wing Sets in acceptable level
+- General Data: Resource System ground-level start-up
+
+Kreeg Plan of handling content, as per Shack's original Video.
+All concepts, given, are possible: I've done 90% of them myself, previously.
+Concepts are:
+- Custom Fuels
+- Custom Resources
+- Sim-Considerate Ships
+- AI Encounters
+- BattleFields
+- Fully-Modded TIEs
+- Build-able Rebellion Vessels
+
+Now my plot.
+Custom Fuels, for select engines such as large-starship engines. Easily done, I have an entire mod on this kind of thing.
+Custom Resources, oh so much: All I need to research is Voxel, if bothered. I've done extensive custom resources before.
+Sim-Considerate ships? Designed around & considered.
+AI Encounters, and the like: Lucas has blessed this, with his script, making this system already near available.
+Now, I plot a few balancing methods, as Shack himself said, we can balance each weapon & system; Which we can indeed.
+I haven't yet figured, if duplicating Keen's armor blocks (exactly, but components), to control armor to allow better ship-armors is worth it.
+I have figured, Vanilla weapon stats either invalidate any larger-weapon, or make all but select guns near pointless.
+For resources, I have a two-fold consideration: The ability to 'produce' ores from others, to prevent the endless hunt of new asteroids after adding mods, and allow a means to prevent being doomed to collect basic resources needed.
+The second, is to have 'rich' sources, in addition to loot, of said new materials\resources, that in the case of rich, provide a greater yield.
+This resource yield is directly controlled by the new refineries, for these ores, So no ability to loop, boost output, or flood vanilla refineries.
+This keeps Rich yields exactly at the values intended, and prevent all manner of buggery.
+
+Now why custom resources, so dedicated am I? To control resource price, and prevent just tearing down say, an 'expensive' plate into hundreds of ingots
+Which is easily messy, and easily exploited.
+Complication? Just have to design it, in a way that doesn't confuse but flows.
+Why bother? As then the armor plates & components, need not spam near random ores, just to show-case value to themselves.
+Would you rather a hardened armor plate be made of proper decent amounts of ore, rather than several hundred pounds & some random gold & plat?
+Balancing you see, takes more forms.
+This means components can be more logically priced, in value, and access: and with the above generation, not game breaking either.
+It's easily exploited to allow access to gold, silver & plat, to allow use of components, to make these components common-use components.. otherwise, these same common components needed for their stats, are essentially as valuable as a Gravity generator is, due to no real choice.
+As either over-valued, or under-valued with the limited Keen ores\resources; I've done a lot with them, but the 100th pound of Gold gets a bit insane.
+So this means the Components, that are basic to the system, are actually basic to get, in relation, without game-stopping resource-hunts.
+While allowing rare components, or more valuable ones, to still have value; instead of players needing a 10th or 11th extra ore to pray they find, in cluttered ore tables, to build anything.
+Some components will be rare, in my concept, to need to be found, with no option of generation; This is a rare resource, and a rare component, for progression & better gear.
+
+Custom Components, these provide the stats of every block.
+They are a lot more flexiable.
+And in this mod, should be produced in a more manageable assembler; An assembler built for it, reducing clutter, and providing order.
+As every aspect of the Tabs in said assembler, can be controlled & set.
+And prevents flooding of the Vanilla Assembler, when not building with these things, just to allow us to control block stats without pilling on random blocks praying to get one stat at the cost of all others.
+That little bit there, is from having done that dance before, and why I praise custom components, when handled well.
+We will end up with a lot more than 5 however, so I find it best to ensure flood-prevention.
+And don't worry: I play with assemblers a lot. 
+I've done multiple projects with every system I just mentioned, that isn't scripting.
+
+
+Now, Phase I.
+The Foundations of the Mod's start.
+This means the basic Ships, the basic parts, the basics of how it plays out.
+This is, the basic Rebellion & Imperial ships used in the engagements as first played-out.
+This is the basic resource system, not needing any complicated full implementation, just their existence in.
+Custom Components installed, for proper stat allowances. 
+
+Phase II.
+Advanced Parts, addition of the Larger opponents, Refinement of the systems in play.
+This means, ensuring all encounter set-ups are working as wanted to the T, and seeing any space for improvements.
+Getting the Custom-Fuel System, properly set-up, for use & refinement.
+Additional Encounters set-up, for additions, if seen to.
+Balancing Checks, of all stats on objects.
+Heavier Capabilities, such as Cruiser implentmentation if not prior.
+Consideration of the Progressive Tree's path.
+
+Phase III.
+Refinement of the Core gameplay.
+Checks & Balances.
+Core Testing, 
+Investigation of additional features or capabilities that tie into the Core.
+
+
+
+I can lay into exacts easily, but I figure this covers my concepts.
+And explains how I'm presently operating with the lack of solid plan.
+As such, here is mine, based on Experience handling large-projects, and what I happily heard from Shack's video.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
