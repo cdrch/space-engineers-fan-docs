@@ -21,6 +21,8 @@ The empty will need to link to your barrels file like this:
 
 ![alt text](/tutorials/images/gats-spacebar-4.png "Gatling Gun Example 4 By Spacebar")
 
+The file must be in the format "barrel_small" or whatever you named your barrels; the \_small/\_large is needed, as that's how the plugin exports them. You only need to make the variants for the sizes you actually intend to make. (Advice: generally, it is probably easier to make separate mods for large and small grid versions instead of doing the "large block and scaled down" export.)
+
 Your barrel model may have to point the opposite direction of your base model for whatever stupid reason Keen does it.
 
 On your barrel model, once you get it set up where you want it to spin, select all the meshes and apply location under ctrl+A. I find it easier to make your barrel mesh in the same scene as your base mesh, then copy/paste it to a new scene, then move your barrel mesh to another layer so you don't get double barrels.
@@ -32,3 +34,9 @@ On the barrel scene you'll need an muzzle_projectile empty, roughly where you wa
 ![alt text](/tutorials/images/gats-spacebar-6.png "Gatling Gun Example 6 By Spacebar")
 
 Then export both of your models to the same folder then you can start your data files setup.
+
+---
+
+Author: Spacebar
+
+Editor: cdrch
