@@ -29,6 +29,9 @@ A collection of tutorials, snippets, and other information about creating script
 ### Sound Block Modding
 
 ### Planet Modding
+- [Doctor Octoganapus's Planet Modding Tutorial](https://www.youtube.com/watch?v=UA4P3I0aYOg)
+    - An explanation of how to mod planetoids.
+    - Recommended by: Spacebar
 
 ### Weapon Modding
 - [Spacebar's Gatling Gun Tutorial](tutorials/tutorial-on-gats-spacebar.md)
