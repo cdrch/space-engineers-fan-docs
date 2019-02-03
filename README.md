@@ -22,7 +22,7 @@ A collection of tutorials, snippets, and other information about creating script
 ### Block Icons
 
 ### Emissives
-- [Kreeg's Emissives Tutorial](https://github.com/cdrch/space-engineers-fan-docs/tutorials/emissives-kreeg)
+- [Kreeg's Emissives Tutorial](tutorials/emissives-kreeg.md)
     - An explanation of how to make emissives on blocks work.
     - Recommended by Kreeg
 
