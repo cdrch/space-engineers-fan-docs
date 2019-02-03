@@ -9,6 +9,7 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
 ### Basic Modding Setup
 - [Shaostoul's Mod Folder Setup (V3)](https://www.youtube.com/watch?v=najofqN1XIs)
     - A tutorial in how to setup the basic files and folders needed to mod Space Engineers.
+    - Recommended by: Spacebar
 
 ### 3D Modelling And Texturing
 Note that guides to using the programs are placed before guides specific to Space Engineers.
