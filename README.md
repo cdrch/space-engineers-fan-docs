@@ -1,6 +1,14 @@
 # Space Engineers Fan Docs
 A collection of tutorials, snippets, and other information about creating scripts and mods for Space Engineers.
 
+## General Notes
+
+When asking for help:
+
+![No Log, No Help Batman Meme](/tutorials/images/no-log-no-help.jpg "No Log, No Help")
+
+Always include the log if possible! More information is always better (so long as the information is relevant).
+
 ## Scripting
 None yet!
 
