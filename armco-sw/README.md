@@ -68,3 +68,5 @@ Capital Weapons - 2X / 4x - Accurate. Slow firing Heavy hitter. Low traversal sp
 Medium Guns - Frigate / Cruiser Standard Weapons. Nice Salvo fire. Medium Damage. Tracks Corvettes easily. Medium Firing range. 600m Range.  Smallest ships probably Arquitens  because of its strange large gun setup for size.  Light Cannons - Rapid Fire. Before cooling down / reloading . Not very accurate. Visually stunning "filling the sky" weapon.
 
 Small grid weapons. Deadly accurate. Low Damage.
+
+[Back to top](#The-ARMCO-Space-Engineers-Star-Wars-Project)

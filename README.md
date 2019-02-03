@@ -21,6 +21,7 @@ A collection of tutorials, snippets, and other information about creating script
 - [Contributing](#Contributing)
 
 ## General Notes
+[Back to top](#Table-Of-Contents)
 
 When asking for help:
 
@@ -29,14 +30,22 @@ When asking for help:
 Always include the log if possible! More information is always better (so long as the information is relevant).
 
 ## Scripting
+[Back to top](#Table-Of-Contents)
+
 None yet!
 
 ## Modding
+[Back to top](#Table-Of-Contents)
+
 Tutorials are generally ordered by difficulty or usefulness, and otherwise are in alphabetical order.
 
 ### How To Get Started
+[Back to top](#Table-Of-Contents)
+
 
 ### Basic Modding Setup
+[Back to top](#Table-Of-Contents)
+
 - [Shaostoul's Mod Folder Setup (V3)](https://www.youtube.com/watch?v=najofqN1XIs)
     - A tutorial in how to setup the basic files and folders needed to mod Space Engineers.
     - Recommended by: Spacebar
@@ -55,9 +64,13 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
         - Recommended by: Kreeg
 
 ### 3D Modelling And Texturing
+[Back to top](#Table-Of-Contents)
+
 Note that guides to using the programs are placed before guides specific to Space Engineers.
 
 #### Blender
+[Back to top](#Table-Of-Contents)
+
 
 - [Blender Guru's Donut Tutorial](https://www.youtube.com/watch?v=JYj6e-72RDs)
     - A good starting point for learning the basics of 3D modelling and related skills in Blender.
@@ -67,32 +80,44 @@ Note that guides to using the programs are placed before guides specific to Spac
     - Recommended by: Spacebar
 
 #### 3ds Max
+[Back to top](#Table-Of-Contents)
+
 - [3DsMax to SE (by enenra)](https://gist.github.com/enenra/d9758dc06f3ff83cde10ccf168ddb918)
     - A guide to setting up 3ds Max for modding Space Engineers.
     - Recommended by: enenra
 
 ### Block Icons
+[Back to top](#Table-Of-Contents)
+
 - [Making Block Icons for SE (by enenra)](https://gist.github.com/enenra/751d2ca2a04262f53a8eebe83ede79d8)
     - A Photoshop tutorial for creating GUI icons for original blocks.
     - Recommended by: enenra
 
 
 ### Audio
+[Back to top](#Table-Of-Contents)
+
 - [Creating Block Sounds for SE (by enenra)](https://gist.github.com/enenra/a6024d4e62311409236336190c0095ad)
     - A tutorial for creating sounds for blocks using Audacity.
     - Recommended by: enenra
 
 ### Emissives
+[Back to top](#Table-Of-Contents)
+
 - [Kreeg's Emissives Tutorial](tutorials/emissives-kreeg.md)
     - An explanation of how to make emissives on blocks work.
     - Recommended by: Kreeg
 
 ### Planets
+[Back to top](#Table-Of-Contents)
+
 - [Doctor Octoganapus's Planet Modding Tutorial](https://www.youtube.com/watch?v=UA4P3I0aYOg)
     - An explanation of how to mod planetoids.
     - Recommended by: Spacebar
 
 ### Weapons
+[Back to top](#Table-Of-Contents)
+
 - [Spacebar's Gatling Gun Tutorial](tutorials/tutorial-on-gats-spacebar.md)
     - An explanation of how to create gatling gun-based weapons.
     - Recommended by: Spacebar
@@ -106,12 +131,18 @@ Note that guides to using the programs are placed before guides specific to Spac
     - Part 3: In Progress
 
 ### Miscellaneous
+[Back to top](#Table-Of-Contents)
+
 Everything is categorized...so far.
 
 ## Other
+[Back to top](#Table-Of-Contents)
+
 - [ARMCO Space Engineers Star Wars Project](armco-sw/README.md)
 
 ## Contributing
+[Back to top](#Table-Of-Contents)
+
 
 The format for this document should be mostly self-evident. A few notes:
 - Editing
@@ -126,3 +157,5 @@ The format for this document should be mostly self-evident. A few notes:
     - cdrch will, by default, add the person sharing the resource as a recommender.
 
 If your work appears in this repository and you wish for it to be removed, please create an issue or contact cdrch via Discord in the ARMCO, Keen Software House, or Modular Encounters Collection servers.
+
+[Back to top](#Table-Of-Contents)

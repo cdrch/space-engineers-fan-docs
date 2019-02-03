@@ -6,6 +6,8 @@
 [Find all the necessary core mods in the official collection here!](https://steamcommunity.com/workshop/filedetails/?id=1523346720)
 
 ## Core Mods
+[Back to top](#Mods-Of-The-ARMCO-Space-Engineers-Star-Wars-Project)
+
 Core Mods | Author(s)
 --- | ---
 [(ARMCO) BTL-S3 Y-Wing Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=1523204540)  |  [Spacebar](https://steamcommunity.com/id/lethargicgamers)
@@ -16,6 +18,7 @@ Core Mods | Author(s)
 [(ARMCO) Misc Pack (Temp)](https://steamcommunity.com/sharedfiles/filedetails/?id=1527082967)  |  [Spacebar](https://steamcommunity.com/id/lethargicgamers)
 
 ## Ships
+[Back to top](#Mods-Of-The-ARMCO-Space-Engineers-Star-Wars-Project)
 
 Small Rebel Ships | Author(s)
 --- | ---
@@ -62,6 +65,8 @@ Other Ships | Author(s)
 [(ARMCO) Z-'ceptor](https://steamcommunity.com/sharedfiles/filedetails/?id=1480179171)  |  [Spacebar](https://steamcommunity.com/id/lethargicgamers)
 [(ARMCO) Deathseed](https://steamcommunity.com/sharedfiles/filedetails/?id=1480180651)  |  [Spacebar](https://steamcommunity.com/id/lethargicgamers)
 ## Other
+[Back to top](#Mods-Of-The-ARMCO-Space-Engineers-Star-Wars-Project)
+
 - [Star Wars PvP Fighter Pilot Arena](https://steamcommunity.com/sharedfiles/filedetails/?id=1461475512)
     - Authors: [Meridius_IX / Lucas](https://steamcommunity.com/id/meridius_ix), [Kreeg](https://steamcommunity.com/profiles/76561198006687969), [Purrfect-Blinky](https://steamcommunity.com/id/PurrfectRDM), [Spacebar](https://steamcommunity.com/id/lethargicgamers)
     - A world setup for an instant 10v10 battle, Rebellion versus the Empire. Works in single player or multiplayer. Slots not taken by a player will be filled with AI.
