@@ -1,10 +1,13 @@
 # The ARMCO Space Engineers Star Wars Project
+[(Back to the main page)](../README.md)
+
 This is a collection of links and information to serve as a backup for the modders and scripters working on ARMCO's Star Wars Project.
 
 ## Links
-None yet!
+- [Mod list and blueprints](mod-list.md)
 
 ## Plans
+As written by Kreeg.
 ### Phase 1
 The Foundations of the Mod's start.
 
@@ -55,7 +58,7 @@ Yt-1300 /  imperial Gozanti
 
 #### 2018/06/16: The Plan, As Told By Kreeg
 
-Found [here](/SW_Plan.txt).
+Found [here](/SW_Plan.txt). Partly listed [above](#Plans)
 
 #### 2018/08/11: Turret Thoughts From CaptainShack
 
@@ -65,20 +68,3 @@ Capital Weapons - 2X / 4x - Accurate. Slow firing Heavy hitter. Low traversal sp
 Medium Guns - Frigate / Cruiser Standard Weapons. Nice Salvo fire. Medium Damage. Tracks Corvettes easily. Medium Firing range. 600m Range.  Smallest ships probably Arquitens  because of its strange large gun setup for size.  Light Cannons - Rapid Fire. Before cooling down / reloading . Not very accurate. Visually stunning "filling the sky" weapon.
 
 Small grid weapons. Deadly accurate. Low Damage.
-
-## Workshop
-- Base Mods
-    - [ImperialMod: https://steamcommunity.com/workshop/filedetails/?id=1380830774](https://steamcommunity.com/workshop/filedetails/?id=1380830774)
-
-Rebel Ship | Author
---- | ---
-  |  
-
-Imperial Ship | Author
---- | ---
-[Probe Droid](https://steamcommunity.com/sharedfiles/filedetails/?id=1402516939) | [Kreeg](https://steamcommunity.com/profiles/76561198006687969)
-[TIE Bomber](https://steamcommunity.com/sharedfiles/filedetails/?id=1401339954) | [Kreeg](https://steamcommunity.com/profiles/76561198006687969)
-[TIE Drone](https://steamcommunity.com/sharedfiles/filedetails/?id=1401188010) | [Kreeg](https://steamcommunity.com/profiles/76561198006687969)
-[TIE Defender](https://steamcommunity.com/sharedfiles/filedetails/?id=1393657020) | [Kreeg](https://steamcommunity.com/profiles/76561198006687969)
-[TIE Fighter](https://steamcommunity.com/sharedfiles/filedetails/?id=1393650484) | [Kreeg](https://steamcommunity.com/profiles/76561198006687969)
-[TIE Interceptor](https://steamcommunity.com/sharedfiles/filedetails/?id=1393646718) | [Kreeg](https://steamcommunity.com/profiles/76561198006687969)

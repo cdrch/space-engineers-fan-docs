@@ -86,6 +86,10 @@ Note that guides to using the programs are placed before guides specific to Spac
     - Part 3: In Progress
 
 ### Miscellaneous
+Everything is categorized...so far.
+
+## Other
+- [ARMCO Space Engineers Star Wars Project](armco-sw/README.md)
 
 ## Contributing
 
