@@ -16,6 +16,9 @@ A collection of tutorials, snippets, and other information about creating script
 - [Blender Guru's Donut Tutorial](https://www.youtube.com/watch?v=JYj6e-72RDs)
     - A good starting point for learning the basics of 3D modelling and related skills in Blender.
     - Recommended by: Spacebar, cdrch
+- [Shaostoul's Tutorial On Harag's Plugin](https://www.youtube.com/watch?v=XjBDBs3wbbw)
+    - Tutorial for setting up Blender to mod Space Engineers, and for using the materials.xml file.
+    - Recommended by: Spacebar
 
 #### 3DS Max
 
