@@ -31,4 +31,4 @@ Keen's only sane color system.
 
 **Author:** Kreeg
 
-**Editing:** cdrch
+**Editor:** cdrch
