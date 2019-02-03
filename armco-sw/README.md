@@ -2,7 +2,7 @@
 This is a collection of links and information to serve as a backup for the modders and scripters working on ARMCO's Star Wars Project.
 
 ## Links
-
+None yet!
 
 ## Plans
 ### Phase 1
