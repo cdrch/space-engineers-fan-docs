@@ -27,5 +27,8 @@ G = Green.
 
 Keen's only sane color system.
 
-Author: Kreeg
-Editing: cdrch
+---
+
+**Author:** Kreeg
+
+**Editing:** cdrch
