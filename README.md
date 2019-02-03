@@ -29,7 +29,10 @@ A collection of tutorials, snippets, and other information about creating script
     - An explanation of how to make emissives on blocks work.
     - Recommended by: Kreeg
 
-### Sound Block Modding
+### Audio Modding
+- [Creating Block Sounds for SE (by enenra)](https://gist.github.com/enenra/a6024d4e62311409236336190c0095ad)
+    - A tutorial for creating sounds for blocks.
+    - Recommended by: enenra
 
 ### Planet Modding
 - [Doctor Octoganapus's Planet Modding Tutorial](https://www.youtube.com/watch?v=UA4P3I0aYOg)
