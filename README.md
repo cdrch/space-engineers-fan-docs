@@ -31,6 +31,9 @@ A collection of tutorials, snippets, and other information about creating script
 ### Planet Modding
 
 ### Weapon Modding
+- [Spacebar's Gatling Gun Tutorial](tutorials/tutorial-on-gats-spacebar.md)
+    - An explanation of how to create gatling gun-based weapons.
+    - Recommended by: Spacebar
 
 ### Miscellaneous
 
