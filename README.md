@@ -31,6 +31,9 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
     - [Example Mod](https://github.com/cdrch/space-engineers-fan-docs/raw/master/tutorials/examples/Example_LocalMods_101.zip)
         - A sample local mod, ready for use in Space Engineers as an example.
         - Recommended by: Kreeg
+    - [Armor Panels Data](https://github.com/cdrch/space-engineers-fan-docs/raw/master/tutorials/examples/ArmorPanelsData.zip)
+        - An example of panel-based armor with included .blend file.
+        - Recommended by: Kreeg
 
 ### 3D Modelling And Texturing
 Note that guides to using the programs are placed before guides specific to Space Engineers.
