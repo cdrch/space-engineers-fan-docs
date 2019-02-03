@@ -2,6 +2,7 @@
 A collection of tutorials, snippets, and other information about creating scripts and mods for Space Engineers.
 
 ## Modding
+Tutorials are generally ordered by difficulty or usefulness, and otherwise are in alphabetical order.
 
 ### How To Get Started
 
@@ -10,6 +11,7 @@ A collection of tutorials, snippets, and other information about creating script
     - A tutorial in how to setup the basic files and folders needed to mod Space Engineers.
 
 ### 3D Modelling And Texturing
+Note that guides to using the programs are placed before guides specific to Space Engineers.
 
 #### Blender
 
@@ -60,5 +62,6 @@ The format for this document should be mostly self-evident. A few notes:
     - Kindly only add your name to the recommendation list if you have made at least some use of the listed tutorial or tool.
     - Feel free to recommend your own tutorial!
     - If you would advise against a resource, please add that to an "Against" line beneath Recommendations, with a brief reasoning in parentheses.
+    - cdrch will, by default, add the person sharing the resource as a recommender.
 
 If your work appears in this repository and you wish for it to be removed, please create an issue or contact cdrch via Discord in the ARMCO, Keen Software House, or Modular Encounters Collection servers.
