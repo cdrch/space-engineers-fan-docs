@@ -22,7 +22,10 @@ Note that guides to using the programs are placed before guides specific to Spac
     - Tutorial for setting up Blender to mod Space Engineers, and for using the materials.xml file.
     - Recommended by: Spacebar
 
-#### 3DS Max
+#### 3ds Max
+- [3DsMax to SE (by enenra)](https://gist.github.com/enenra/d9758dc06f3ff83cde10ccf168ddb918)
+    - A guide to setting up 3ds Max for modding Space Engineers.
+    - Recommended by: enenra
 
 ### Block Icons
 
