@@ -29,6 +29,18 @@ When asking for help:
 
 Always include the log if possible! More information is always better (so long as the information is relevant).
 
+## Useful Tools
+[Back to top](#Table-Of-Contents)
+
+These are useful for those doing neither scripting nor modding.
+
+- [Whip's Image Converter](https://github.com/Whiplash141/Whips-Image-Converter)
+    - Convert images to text for use in LCD panels by copying and pasting.
+    - Recommended by: w4stedspace, cdrch
+- [Whip's Ship Recolor Tool](https://github.com/Whiplash141/WhipsShipRecolorTool/releases/tag/v1.0.1.0)
+    - Swap colors of blueprints. (Optionally, repair/construct all blocks in the blueprint.)
+    - Recommended by: cdrch
+
 ## Scripting
 [Back to top](#Table-Of-Contents)
 
