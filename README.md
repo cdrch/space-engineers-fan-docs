@@ -150,12 +150,16 @@ The format for this document should be mostly self-evident. A few notes:
     - This is not like a wiki. Kindly only make minimal edits for spelling and grammar without permission of the author.
     - If you would like to host your tutorial but ensure that only you have control over editing it, create a [Gist](http://gist.github.com) and link it.
     - Everyone should feel free to edit the main page (README.md) as needed.
+- Crediting
+    - All authors should be clearly credited for their work.
+    - Links to the author's profile on the appropriate platform should be included.
 - Recommendations
     - All tutorials and tools should be recommended by at least one person. The original recommender's name should go first. All others seconding the recommendation should follow in alphabetical order.
+    - Recommendations generally match Discord names.
     - Kindly only add your name to the recommendation list if you have made at least some use of the listed tutorial or tool.
     - Feel free to recommend your own tutorial!
     - If you would advise against a resource, please add that to an "Against" line beneath Recommendations, with a brief reasoning in parentheses.
-    - cdrch will, by default, add the person sharing the resource as a recommender.
+    - cdrch will, by default, add the person sharing the resource (with him directly or with the community he hears about it through) as a recommender.
 
 If your work appears in this repository and you wish for it to be removed, please create an issue or contact cdrch via Discord in the ARMCO, Keen Software House, or Modular Encounters Collection servers.
 
