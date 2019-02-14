@@ -6,6 +6,7 @@ A collection of tutorials, snippets, and other information about creating script
 - [Scripting](#Scripting)
 - [Modding](#Modding)
     - [How To Get Started](#How-To-Get-Started)
+    - [NPC System](#NPC-System)
     - [Basic Modding Setup](#Basic-Modding-Setup)
     - [3D Modelling And Texturing](#3D-Modelling-And-Texturing)
         - [Blender](#Blender)
