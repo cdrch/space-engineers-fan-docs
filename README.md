@@ -56,6 +56,12 @@ Tutorials are generally ordered by difficulty or usefulness, and otherwise are i
 
 [Under Construction]
 
+### NPC System
+
+- [Splitsie's Build Your Own NPC Cargo Ship](https://www.youtube.com/watch?v=-IzFL69FKGA)
+    - A tutorial on how to add planetary cargo ships to Space Engineers using Meridius_IX / Lucas's Planetary Cargo Ships mod. (Information is also largely applicable to space-based cargo ships.)
+    - Recommended by: Meridius_IX
+
 ### Basic Modding Setup
 [Back to top](#Table-Of-Contents)
 
