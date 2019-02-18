@@ -6,6 +6,9 @@ This is a collection of links and information to serve as a backup for the modde
 ## Links
 - [Mod list and blueprints](mod-list.md)
 
+## Progress List
+Current status of the project can be found [here](progress-list.md).
+
 ## Plans
 As written by Kreeg.
 ### Phase 1
