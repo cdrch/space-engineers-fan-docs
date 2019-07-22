@@ -110,7 +110,11 @@ Below is a screenshot of a texture within Adobe Photoshop. This is likely not wh
 The picture may look like the texture contains random shapes, but once these are applied to a 3D model, it will look very different.
 
 #### Audio modding
-Audio modding is often forgotten (to be honest, I nearly forgot it myself when writing this guide - even though I've done quite a bit of it) but is nevertheless an important aspect. Creating and editing sound effects requires another separate set of tools, but is fairly straightforward. 
+Audio modding is often forgotten (to be honest, I nearly forgot it myself when writing this guide - even though I've done quite a bit of it) but is nevertheless an important aspect. Creating and editing sound effects requires another separate set of tools, but is fairly straightforward.
+
+This is a screenshot of the application "Audacity". It's what you'll likely be using to edit and create sound effects for SE.
+![](./pictures/audacity.png?raw=true "Audacity")
+This particular project file contains multiple sound effects.
 
 ## Setting up a modding environment
 
