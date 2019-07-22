@@ -89,7 +89,7 @@ public class Container : MyGameLogicComponent
 #### Visual Scripting
 Visual Scripting is a form of scripting that does not require the user to write actual code. The code is rather represented in the form of a network of nodes that are connected to each other. As a result, it's much more approachable for newbies, but the tool used to create these visual scripts - Visual Scripting Tool (VST) - is unfortunately still somewhat buggy.
 
-![](../pictures/vst.png)
+![Alt text](./pictures/vst.png?raw=true "VST")
 
 ### Modding assets
 
