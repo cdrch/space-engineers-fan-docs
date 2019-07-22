@@ -7,10 +7,16 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
 - [What can I mod?](#what-can-i-mod-)
   * [SBC modding](#sbc-modding)
   * [Scripting](#scripting)
-  * [3D models and textures](#3d-models-and-textures)
+    + [Visual Scripting](#visual-scripting)
+  * [Modding assets](#modding-assets)
+    + [3D modelling](#3d-modelling)
+    + [Texture modding](#texture-modding)
+    + [Audio modding](#audio-modding)
 - [Setting up a modding environment](#setting-up-a-modding-environment)
   * [Folder structure](#folder-structure)
   * [Required tools](#required-tools)
+- [Sample mod setup](#sample-mod-setup)
+- [What now?](#what-now-)
 
 ***
 
@@ -81,6 +87,9 @@ public class Container : MyGameLogicComponent
 ```
 
 #### Visual Scripting
+Visual Scripting is a form of scripting that does not require the user to write actual code. The code is rather represented in the form of a network of nodes that are connected to each other. As a result, it's much more approachable for newbies, but the tool used to create these visual scripts - Visual Scripting Tool (VST) - is unfortunately still somewhat buggy.
+
+![](../pictures/vst.png)
 
 ### Modding assets
 
