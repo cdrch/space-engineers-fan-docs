@@ -91,6 +91,7 @@ public class Container : MyGameLogicComponent
 Visual Scripting is a form of scripting that does not require the user to write actual code. The code is rather represented in the form of a network of nodes that are connected to each other. As a result, it's much more approachable for newbies, but the tool used to create these visual scripts - Visual Scripting Tool (VST) - is unfortunately still somewhat buggy. Furthermore, while it does not require the user to write actual code, knowledge of algorithms and the logic under which programs operate is still absolutely essential.
 
 Below is a screenshot of the VST with a script loaded into it. You can see the different nodes represented in various colors with the lines connecting them together.
+
 ![](./pictures/vst.png?raw=true "VST")
 
 ### Modding assets
@@ -100,6 +101,7 @@ This dimension includes all the shiny things - the things that make good screens
 3D modelling is not an easy skill to learn but there are many applications and much more tutorials available on the internet. 3D modelling is creating objects in SE. Be it blocks, tools, components or even player characters - they were all created in a 3D modelling application.
 
 This is a screenshot of the user interface inside the application called "Blender", which is what you'll most likely be using to do your 3D modelling for SE.
+
 ![](./pictures/blender.png?raw=true "Blender")
 As you can see, the colors aren't quite right and the model is not properly aligned but that is a Beacon block in there.
 
@@ -107,6 +109,7 @@ As you can see, the colors aren't quite right and the model is not properly alig
 Textures are what give objects in games, and thus SE, color. They can be edited separately from 3D models and require a separate set of applications to mod. This is one of the easier disciplines and a pretty good point to start with should you want to look into modding the game's visuals.
 
 Below is a screenshot of a texture within Adobe Photoshop. This is likely not what you'll be using as it's a paid application, but it still illustrates the setup fairly well.
+
 ![](./pictures/photoshop.png?raw=true "Adobe Photoshop")
 The picture may look like the texture contains random shapes, but once these are applied to a 3D model, it will look very different.
 
@@ -114,6 +117,7 @@ The picture may look like the texture contains random shapes, but once these are
 Audio modding is often forgotten (to be honest, I nearly forgot it myself when writing this guide - even though I've done quite a bit of it) but is nevertheless an important aspect. Creating and editing sound effects requires another separate set of tools, but is fairly straightforward.
 
 This is a screenshot of the application "Audacity". It's what you'll likely be using to edit and create sound effects for SE.
+
 ![](./pictures/audacity.png?raw=true "Audacity")
 This particular project file contains multiple sound effects.
 
@@ -136,6 +140,7 @@ Now, download **[this file](https://drive.google.com/open?id=1hvbhJbYkfUP8KwGLcy
 With many of them having additional subfolders within them.
 
 This modding folder is your new sandbox. This is where you will work on many of the more complex files that go into your mod to then copy them into the individual mods' folders for testing and upload to the workshop. Now right-click on your SE Modding folder and click `Pin to Quick access`. This will add the folder to the folder tree on the left side of Windows Explorer like so:
+
 ![](./pictures/quickaccess.png?raw=true "Quick Access")
 
 Next up is making getting to the relevant folders that are outside of this one more convenient. 
