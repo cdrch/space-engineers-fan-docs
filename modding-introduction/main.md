@@ -23,12 +23,13 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
 * use examples
 * pictures
 * hyperlinks to more detail
+* scripting: pb scripts
 
 ## What can I mod?
 As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
 
 ### SBC modding
-SBC modding is the by far most universal form of modding. "SBC" stands for the file format that most files containing game data are saved in. They are easily readable and very simple to adjust. Most mods will contain SBC files and thus involve SBC modding, even if they primarily fall into one of the other dimensions of modding.
+SBC modding is the by far most universal form of modding. "SBC" refers to the file format that most files containing game data are saved in. They are easily readable and very simple to adjust. Most mods will contain SBC files and thus involve SBC modding, even if they primarily fall into one of the other dimensions of modding.
 
 What follows is an example of how the inside of an SBC file looks like. In this case, it's an excerpt of `Components.sbc`, which defines the `Steel Plate`-component.
 ```xml
@@ -117,8 +118,27 @@ This is a screenshot of the application "Audacity". It's what you'll likely be u
 This particular project file contains multiple sound effects.
 
 ## Setting up a modding environment
+Now that we've got an overview over the different dimensions of modding, the next step is to set up a folder structure to make modding easy and streamlined. While you can do modding in a more unorganized fashion perfectly well, structuring everything from the beginning will help you keep an overview and save you a lot of time in the long run.
 
 ### Folder structure
+First off, you need to decide where on your PC you want to keep your modding files. This can be anywhere - on your main drive or any additional ones - as long as it has enough space. Once you have decided on a location, create a folder and name it something along the lines of `SE Modding`.
+
+Now, download **[this file](https://drive.google.com/open?id=1hvbhJbYkfUP8KwGLcytOTs9YrMcZAejp)** and extract it into your new folder. It contains the various subfolders which will make up the structure of the modding folder. It should now look like this:
+```
+[Your SE Modding folder]\audio
+[Your SE Modding folder]\models
+[Your SE Modding folder]\render
+[Your SE Modding folder]\scripts
+[Your SE Modding folder]\textures
+[Your SE Modding folder]\tools
+[Your SE Modding folder]\tutorials
+```
+With many of them having additional subfolders within them.
+
+This modding folder is your new sandbox. This is where you will work on many of the more complex files that go into your mod to then copy them into the individual mods' folders for testing and upload to the workshop. Now right-click on your SE Modding folder and click `Pin to Quick access`. This will add the folder to the folder tree on the left side of Windows Explorer like so:
+![](./pictures/quickaccess.png?raw=true "Quick Access")
+
+Next up is making getting to the relevant folders that are outside of this one more convenient. 
 
 ### Required tools
 
