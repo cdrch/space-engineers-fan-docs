@@ -142,8 +142,21 @@ With many of them having additional subfolders within them.
 This modding folder is your new sandbox. This is where you will work on many of the more complex files that go into your mod to then copy them into the individual mods' folders for testing and upload to the workshop. Now right-click on your SE Modding folder and click `Pin to Quick access`. This will add the folder to the folder tree on the left side of Windows Explorer like so:
 
 ![](./pictures/quickaccess.png?raw=true "Quick Access")
+As you can see, in my case the folder is just named `SE`.
 
-Next up is making getting to the relevant folders that are outside of this one more convenient. 
+Next up is making getting to the relevant folders more convenient. Outside of this one, there are four locations that you will have to navigate to very frequently: Your Space Engineers game folder, the Space Engineers folder in AppData, the Space EngineersModSDK folder and finally the folder where Steam saves all downloaded Workshop mods to. We're going to make navigating to them easier by creating shortcuts to each:
+
+1. Right-click into your SE Modding folder and go to `New --> Shortcut` in the context menu.
+2. In the window that opens up, click `Browse` and browse to the location of your Space Engineers game installation. This is generally located in `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers`. I'm going to assume that if you relocated the installation folder, you're able to find it again.
+3. Click `Next` and name your shortcut `SpaceEngineers Game Folder`, then select `Finish`.
+
+Now you are able to simply click on that shortcut to get to the Space Engineers installation folder. Then, after finding what you need in there you can simply select your SE Modding folder from the Quick access bar to go back.
+
+Let's now do the same for the next shortcut: Create the shortcut, but then enter `%USERPROFILE%\AppData\Roaming\SpaceEngineers` into the text field next to `Browse`. Name the shortcut `SpaceEngineers AppData`.
+
+The ModSDK link we'll have to skip for now because you likely haven't installed that yet. We'll come back to creating the shortcut for that later.
+
+Lastly, the link to the folder where Steam saves downloaded workshop mods to. This one is located in `C:\Program Files (x86)\Steam\steamapps\workshop\content\244850` by default. Adjust the link as needed and enter it into the text field next to `Browse`. Name the shortcut `Workshop Mods`.
 
 ### Required tools
 
