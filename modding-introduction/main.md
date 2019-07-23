@@ -103,6 +103,7 @@ This dimension includes all the shiny things - the things that make good screens
 This is a screenshot of the user interface inside the application called "Blender", which is what you'll most likely be using to do your 3D modelling for SE.
 
 ![](./pictures/blender.png?raw=true "Blender")
+
 As you can see, the colors aren't quite right and the model is not properly aligned but that is a Beacon block in there.
 
 #### Texture modding
@@ -111,6 +112,7 @@ Textures are what give objects in games, and thus SE, color. They can be edited 
 Below is a screenshot of a texture within Adobe Photoshop. This is likely not what you'll be using as it's a paid application, but it still illustrates the setup fairly well.
 
 ![](./pictures/photoshop.png?raw=true "Adobe Photoshop")
+
 The picture may look like the texture contains random shapes, but once these are applied to a 3D model, it will look very different.
 
 #### Audio modding
@@ -119,6 +121,7 @@ Audio modding is often forgotten (to be honest, I nearly forgot it myself when w
 This is a screenshot of the application "Audacity". It's what you'll likely be using to edit and create sound effects for SE.
 
 ![](./pictures/audacity.png?raw=true "Audacity")
+
 This particular project file contains multiple sound effects.
 
 ## Setting up a modding environment
@@ -142,6 +145,7 @@ With many of them having additional subfolders within them.
 This modding folder is your new sandbox. This is where you will work on many of the more complex files that go into your mod to then copy them into the individual mods' folders for testing and upload to the workshop. Now right-click on your SE Modding folder and click `Pin to Quick access`. This will add the folder to the folder tree on the left side of Windows Explorer like so:
 
 ![](./pictures/quickaccess.png?raw=true "Quick Access")
+
 As you can see, in my case the folder is just named `SE`.
 
 Next up is making getting to the relevant folders more convenient. Outside of this one, there are four locations that you will have to navigate to very frequently: Your Space Engineers game folder, the Space Engineers folder in AppData, the Space EngineersModSDK folder and finally the folder where Steam saves all downloaded Workshop mods to. We're going to make navigating to them easier by creating shortcuts to each:
@@ -157,6 +161,10 @@ Let's now do the same for the next shortcut: Create the shortcut, but then enter
 The ModSDK link we'll have to skip for now because you likely haven't installed that yet. We'll come back to creating the shortcut for that later.
 
 Lastly, the link to the folder where Steam saves downloaded workshop mods to. This one is located in `C:\Program Files (x86)\Steam\steamapps\workshop\content\244850` by default. Adjust the link as needed and enter it into the text field next to `Browse`. Name the shortcut `Workshop Mods`.
+
+Your folder should now look like this:
+
+![](./pictures/moddingfolder.png?raw=true "SE Modding Folder")
 
 ### Required tools
 
