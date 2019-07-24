@@ -192,9 +192,13 @@ The following tools are used for pretty much any mod you want to put together. H
 ##### Microsoft Visual Studio Community
 **[Download](https://visualstudio.microsoft.com/vs/)**
 
-While you can edit `XML`-based files such as `SBC`s in pretty much any text editor, that's really just making things harder for yourself. Visual Studio offers the full package, for free. It will also serve as the application you'll do your scripting in, should you choose that route.
+While you can edit `XML`-based files such as `SBC`s in pretty much any text editor, that's really just making things harder for yourself. Visual Studio offers the full package, for free. It will also serve as the application you'll do your scripting in, should you choose that route. Be sure to download the "Community" edition of the application via the dropdown menu, that's the free one.
 
-Be sure to download the "Community" edition of the application via the dropdown menu. 
+This is how the application will look like, editing the `Components.sbc` file.
+![](./pictures/visualstudio.png?raw=true "Microsoft Visual Studio Community")
+
+##### Space Engineers ModSDK
+
 
 
 * Visual Studio
