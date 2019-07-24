@@ -166,6 +166,14 @@ Your folder should now look like this:
 
 ![](./pictures/moddingfolder.png?raw=true "SE Modding Folder")
 
+Let's now take a quick tour through this folder to expand on why it is set up like it is.
+
+* `audio` - This is where, you guessed it, audio modding is going to happen. The idea is to use the main folder, `\audio\`, to save your finished files into, while the `\audio\source\` folder holds various source sound files that you use to build the finished audio files. `\audio\projects\` is used to hold the "audio projects" file that audio editing applications usually save in by default. Using those projects allows you to go back into editing the same audio later without having to redo everything or somehow edit the previously finished file.
+
+* `models` - This is where you'll be saving all your 3D model-related files. Within this main folder you'll be saving your "project" files such as `.blend` in the case of Blender usage, as well as any files needed to generate SE's 3D model format (`.mwm`). `models\reference\` is where I recommend placing any reference model files that you use to build your own 3D models with. Having them in one place makes them easy to access. `models\Textures\` and its subfolders is where we'll be placing SE texture files so that we can easily reference them within the 3D modelling application. This folder structure is important, because having the folders set up like this will ensure the game also knows where to find these texture files. `\models\utility` is where we'll place various files related to ease the creation of 3D models for SE.
+
+* `render` - 
+
 ### Required tools
 
 ## Sample mod setup
