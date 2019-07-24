@@ -184,8 +184,17 @@ Let's now take a quick tour through this folder to expand on why it is set up li
 * **tutorials** - This folder is not strictly necessary but I do recommend it: If you find guides and tutorials for modding online, save them to this folder via shortcuts or printing them as PDF (or just mark them with bookmarks in your browser). The important part is to keep an overview over what is available and to make sure you can find it again later, should you need it.
 
 ### Required tools
+With the folders set up, the next step is to expand on the tools that you'll be using for different parts of the modding process. At this point it'll also make sense for you to decide on what dimension you'll want to dive in. If you don't have any plans to do scripting, for example, don't bother with the tools listed for scripting. No matter which you choose, be sure to acquire all the tools listed under `General` though.
 
 #### General
+The following tools are used for pretty much any mod you want to put together. Hence it'll make sense for you to get them no matter which modding dimension you want to focus on.
+
+##### Microsoft Visual Studio Community
+**[Download](https://visualstudio.microsoft.com/vs/)**
+While you can edit `XML`-based files such as `SBC`s in pretty much any text editor, that's really just making things harder for yourself. Visual Studio offers the full package, for free. It will also serve as the application you'll do your scripting in, should you choose that route. 
+Be sure to download the "Community" edition of the application via the dropdown menu. 
+
+
 * Visual Studio
 * ModSDK
 * SEWT
