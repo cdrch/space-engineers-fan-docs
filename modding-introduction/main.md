@@ -186,16 +186,31 @@ Let's now take a quick tour through this folder to expand on why it is set up li
 ### Required tools
 
 #### General
+* Visual Studio
+* ModSDK
+* SEWT
 
 #### Scripting
+* separate SDK thingy?
+* PB SDK thingy
+* VST
 
 #### Modding assets
 
 ##### 3D modelling
+* Blender / 3DsMax
+* MwmB
+* Havok
+* FBXImporter
+* Blender plugin Balmung
 
 ##### Texture modding
+* Gimp / Photoshop
+* DDS plugins
+* TexConv
 
 ##### Audio modding
+* Audacity / Audition
 
 ## Sample mod setup
 
