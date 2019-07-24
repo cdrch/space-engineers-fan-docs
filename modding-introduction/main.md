@@ -24,6 +24,7 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
 * pictures
 * hyperlinks to more detail
 * scripting: pb scripts
+* update folder structure
 
 ## What can I mod?
 As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
@@ -172,10 +173,32 @@ Let's now take a quick tour through this folder to expand on why it is set up li
 
 * **models** - This is where you'll be saving all your 3D model-related files. Within this main folder you'll be saving your "project" files such as `.blend` in the case of Blender usage, as well as any files needed to generate SE's 3D model format (`.mwm`). `models\reference\` is where I recommend placing any reference model files that you use to build your own 3D models with. Having them in one place makes them easy to access. `models\Textures\` and its subfolders is where we'll be placing SE texture files so that we can easily reference them within the 3D modelling application. This folder structure is important, because having the folders set up like this will ensure the game also knows where to find these texture files. `\models\utility` is where we'll place various files related to ease the creation of 3D models for SE.
 
-* **render** - 
+* **render** - This folder is where we'll be saving 3D renders of our new models to. These renders are essential to creating the HUD / GUI icons of our new blocks, items, etc.
+
+* **scripts** - This will be our working folder to create scripts for SE in. Not really much more to say here.
+
+* **textures** - This is where we'll be working on our own textures (as opposed to `models\Textures\`, where we place SE's existing textures). In this folder we'll save both the finished texture files as well as the work-in-progress files to. `textures\reference\` is where you should save any reference images for your textures. Having them all in one place will make sorting through them for reference and general inspiration much easier.
+
+* **tools** - This is the folder into which we're going to install and place various tools to handle SE files. We'll get back to this in a bit.
+
+* **tutorials** - This folder is not strictly necessary but I do recommend it: If you find guides and tutorials for modding online, save them to this folder via shortcuts or printing them as PDF (or just mark them with bookmarks in your browser). The important part is to keep an overview over what is available and to make sure you can find it again later, should you need it.
 
 ### Required tools
+
+#### General
+
+#### Scripting
+
+#### Modding assets
+
+##### 3D modelling
+
+##### Texture modding
+
+##### Audio modding
 
 ## Sample mod setup
 
 ## What now?
+
+* notes file
