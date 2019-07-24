@@ -189,21 +189,24 @@ With the folders set up, the next step is to expand on the tools that you'll be 
 #### General
 The following tools are used for pretty much any mod you want to put together. Hence it'll make sense for you to get them no matter which modding dimension you want to focus on.
 
+##### Space Engineers ModSDK
+The official Space Engineers ModSDK contains various tools and data that you'll need when working on your mods. There is no direct download link for it as you'll need to install it via Steam:
+
+Go to your library, then at the top click on `Games` next to the search-field and select `Tools` from the dropdown menu. Then browse down to the entry named `Space Engineers  - Mod SDK` and install it. Once it's installed, create a shortcut to the folder it is located in and place it in your SE Modding folder. For easy access.
+
 ##### Microsoft Visual Studio Community
 **[Download](https://visualstudio.microsoft.com/vs/)**
 
 While you can edit `XML`-based files such as `SBC`s in pretty much any text editor, that's really just making things harder for yourself. Visual Studio offers the full package, for free. It will also serve as the application you'll do your scripting in, should you choose that route. Be sure to download the "Community" edition of the application via the dropdown menu, that's the free one.
 
-This is how the application will look like, editing the `Components.sbc` file.
+This is how the application will look like, editing the `Components.sbc` file as a demonstration.
+
 ![](./pictures/visualstudio.png?raw=true "Microsoft Visual Studio Community")
 
-##### Space Engineers ModSDK
+##### Space Engineers Workshop Tool (SEWT)
+**[Download](https://github.com/Gwindalmir/SEWorkshopTool/releases)**
 
-
-
-* Visual Studio
-* ModSDK
-* SEWT
+While it may seem a little daunting and is not absolutely needed, I still heavily recommend getting this one. SEWT makes uploading and updating your mods very easy, provided we do a little setup beforehand. Download the latest release (click on `Assets` and download the `ZIP` file), then extract it into your `[Space Engineers Game folder]\Bin64\`-directory.
 
 #### Scripting
 * separate SDK thingy?
