@@ -15,6 +15,15 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
 - [Setting up a modding environment](#setting-up-a-modding-environment)
   * [Folder structure](#folder-structure)
   * [Required tools](#required-tools)
+    + [General](#general)
+      - [Space Engineers ModSDK](#space-engineers-modsdk)
+      - [Microsoft Visual Studio Community](#microsoft-visual-studio-community)
+      - [Space Engineers Workshop Tool (SEWT)](#space-engineers-workshop-tool--sewt-)
+    + [Scripting](#scripting-1)
+    + [Modding assets](#modding-assets-1)
+      - [3D modelling](#3d-modelling-1)
+      - [Texture modding](#texture-modding-1)
+      - [Audio modding](#audio-modding-1)
 - [Sample mod setup](#sample-mod-setup)
 - [What now?](#what-now-)
 
@@ -206,7 +215,7 @@ This is how the application will look like, editing the `Components.sbc` file as
 ##### Space Engineers Workshop Tool (SEWT)
 **[Download](https://github.com/Gwindalmir/SEWorkshopTool/releases)**
 
-While it may seem a little daunting and is not absolutely needed, I still heavily recommend getting this one. SEWT makes uploading and updating your mods very easy, provided we do a little setup beforehand. Download the latest release (click on `Assets` and download the `ZIP` file), then extract it into your `[Space Engineers Game folder]\Bin64\`-directory.
+While it may seem a little daunting and is not absolutely needed, I still heavily recommend getting this one. SEWT makes uploading and updating your mods very easy, provided we do a little setup beforehand. For now, download the latest release (click on `Assets` and download the `ZIP` file), then extract it into your `[Space Engineers Game folder]\Bin64\`-directory.
 
 #### Scripting
 * separate SDK thingy?
