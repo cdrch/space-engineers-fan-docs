@@ -211,10 +211,14 @@ While you can edit `XML`-based files such as `SBC`s in pretty much any text edit
 
 While it may seem a little daunting and is not absolutely needed, I still heavily recommend getting this one. SEWT makes uploading and updating your mods very easy, provided we do a little setup beforehand. For now, download the latest release (click on `Assets` and download the `ZIP` file), then extract it into your `[Space Engineers Game folder]\Bin64\`-directory.
 
+---
+
 #### Scripting
 * separate SDK thingy?
 * PB SDK thingy
 * VST
+
+---
 
 #### 3D modelling
 If you're a student, you can get access to 3Ds Max for free. Even if you are though, you might prefer Blender as the vast majority of SE modders use it over 3Ds Max. There is better plugin support for it, so you can skip some steps when creating models for SE. Though the time saved is not large, it adds up over multiple models.
@@ -236,6 +240,8 @@ You can download and install Blender via Steam.
 ##### FBXImporter
 
 ##### Balmung's Blender Plugin
+
+---
 
 #### Texture modding
 * Gimp / Photoshop
