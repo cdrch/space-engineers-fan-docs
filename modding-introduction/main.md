@@ -250,16 +250,24 @@ You can download and install Blender via Steam.
 ___
 
 #### Texture modding
-* Gimp / Photoshop
-* DDS plugins
-* TexConv
+
+##### Gimp - **[Download]()**
+
+##### Adobe Photoshop
+
+##### Gimp DDS Plugin - **[Download]()**
+
+##### Intel Textureworks Plugin - **[Download]()**
+
+##### TexConv
 
 ___
 
 #### Audio modding
-* Audacity / Audition
 
-## Sample mod setup
+##### Audacity - **[Download]()**
+
+##### Adobe Audition
 
 ## What now?
 
