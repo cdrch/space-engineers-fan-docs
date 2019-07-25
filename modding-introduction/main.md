@@ -222,21 +222,35 @@ While it may seem a little daunting and is not absolutely needed, I still heavil
 * PB SDK thingy
 * VST
 
-#### Modding assets
+#### 3D modelling
+If you're a student, you can get access to 3Ds Max for free. Even if you are though, you might prefer Blender as the vast majority of SE modders use it over 3Ds Max. There is better plugin support for it, so you can skip some steps when creating models for SE. Though the time saved is not large, it adds up over multiple models.
 
-##### 3D modelling
-* Blender / 3DsMax
-* MwmB
-* Havok
-* FBXImporter
-* Blender plugin Balmung
+##### Blender
+**[Download](https://store.steampowered.com/app/365670/)**
 
-##### Texture modding
+Blender is a free, open source 3D modelling application. While the industry standard is still 3Ds Max, it is gaining popularity quickly. Its interface takes some time to get used to, but there are thousands of tutorials available for Blender, so you'll have a lot of opportunities to learn the application's intricacies.
+
+You can download and install Blender via Steam.
+
+##### 3Ds Max
+**[Download](https://www.autodesk.com/education/free-software/3ds-max)**
+
+3Ds Max is the industry standard in the games industry. It's a huge thing, incredibly complex and powerful but there are also countless tutorials available for it, some directly from within the application. If you're a student, you can get 3Ds Max for free via the above link, provided you use it non-commercially. Choosing this will mainly make sense if you have previous modelling knowledge in one of the Autodesk products. This application also requires a bit less setup compared to Blender, as it includes a lot of the needed functionality by default, whereas with Blender you'll have to install plugins for it.
+
+##### MWM Builder (MwmB)
+
+##### Havok Content Tools
+
+##### FBXImporter
+
+##### Balmung's Blender Plugin
+
+#### Texture modding
 * Gimp / Photoshop
 * DDS plugins
 * TexConv
 
-##### Audio modding
+#### Audio modding
 * Audacity / Audition
 
 ## Sample mod setup
