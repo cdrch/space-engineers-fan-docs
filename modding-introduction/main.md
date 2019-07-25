@@ -228,8 +228,7 @@ Blender is a free, open source 3D modelling application. While the industry stan
 
 You can download and install Blender via Steam.
 
-##### 3Ds Max
-**[Download](https://www.autodesk.com/education/free-software/3ds-max)**
+##### 3Ds Max **[Download](https://www.autodesk.com/education/free-software/3ds-max)**
 
 3Ds Max is the industry standard in the games industry. It's a huge thing, incredibly complex and powerful but there are also countless tutorials available for it, some directly from within the application. If you're a student, you can get 3Ds Max for free via the above link, provided you use it non-commercially. Choosing this will mainly make sense if you have previous modelling knowledge in one of the Autodesk products. This application also requires a bit less setup compared to Blender, as it includes a lot of the needed functionality by default, whereas with Blender you'll have to install plugins for it.
 
