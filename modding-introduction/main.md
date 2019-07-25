@@ -208,10 +208,6 @@ Go to your library, then at the top click on `Games` next to the search-field an
 
 While you can edit `XML`-based files such as `SBC`s in pretty much any text editor, that's really just making things harder for yourself. Visual Studio offers the full package, for free. It will also serve as the application you'll do your scripting in, should you choose that route. Be sure to download the "Community" edition of the application via the dropdown menu, that's the free one.
 
-This is how the application will look like, editing the `Components.sbc` file as a demonstration.
-
-![](./pictures/visualstudio.png?raw=true "Microsoft Visual Studio Community")
-
 ##### Space Engineers Workshop Tool (SEWT)
 **[Download](https://github.com/Gwindalmir/SEWorkshopTool/releases)**
 
