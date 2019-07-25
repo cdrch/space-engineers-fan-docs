@@ -66,7 +66,7 @@ What follows is an example of how the inside of an SBC file looks like. In this 
 ```
 As you can see, the formatting is fairly straightforward and understandable. Of course there will be some - or many - things you don't yet understand, but it's fairly easy to keep an overview and once you know the different terms and what they mean, it's not hard to imagine this being easy to work with.
 
----
+***
 
 ### Scripting
 Scripting is what is used to implement new gameplay possibilities and functionality into the game. It is done in C# ("C sharp"), a fairly universal programming language that is used for many other things outside of scripting for SE. If you have prior knowledge of programming, this is a pretty good place to start. If you do not, you may want to reconsider starting with this dimension. Learning a programming language and the algorithms and logic to successfully create a script for SE is not something that can be learned in just a month or two. The good news is, however, that there are a lot of C# tutorials available for free online.
@@ -106,7 +106,7 @@ Below is a screenshot of the VST with a script loaded into it. You can see the d
 
 ![](./pictures/vst.png?raw=true "VST")
 
----
+***
 
 ### Modding assets
 This dimension includes all the shiny things - the things that make good screenshots and that look and sound cool in the game. While it doesn't require as much prior knowledge to produce usable results with, this dimension does instead oftentimes require a lot of different applications to produce content with. While the industry standard is generally very expensive, there are usually alternative applications available that can produce similar results for free - albiet they may require you to clear a couple additional hurdles in the process.
@@ -120,7 +120,7 @@ This is a screenshot of the user interface inside the application called "Blende
 
 As you can see, the colors aren't quite right and the model is not properly aligned but that is a Beacon block in there.
 
----
+___
 
 #### Texture modding
 Textures are what give objects in games, and thus SE, color. They can be edited separately from 3D models and require a separate set of applications to mod. This is one of the easier disciplines and a pretty good point to start with should you want to look into modding the game's visuals.
@@ -131,7 +131,7 @@ Below is a screenshot of a texture within Adobe Photoshop. This is likely not wh
 
 The picture may look like the texture contains random shapes, but once these are applied to a 3D model, it will look very different.
 
----
+___
 
 #### Audio modding
 Audio modding is often forgotten (to be honest, I nearly forgot it myself when writing this guide - even though I've done quite a bit of it) but is nevertheless an important aspect. Creating and editing sound effects requires another separate set of tools, but is fairly straightforward.
@@ -200,7 +200,7 @@ Let's now take a quick tour through this folder to expand on why it is set up li
 
 * **tutorials** - This folder is not strictly necessary but I do recommend it: If you find guides and tutorials for modding online, save them to this folder via shortcuts or printing them as PDF (or just mark them with bookmarks in your browser). The important part is to keep an overview over what is available and to make sure you can find it again later, should you need it.
 
----
+***
 
 ### Required tools
 With the folders set up, the next step is to expand on the tools that you'll be using for different parts of the modding process. At this point it'll also make sense for you to decide on what dimension you'll want to dive in. If you don't have any plans to do scripting, for example, don't bother with the tools listed for scripting. No matter which you choose, be sure to acquire all the tools listed under `General` though.
@@ -221,14 +221,14 @@ While you can edit `XML`-based files such as `SBC`s in pretty much any text edit
 
 While it may seem a little daunting and is not absolutely needed, I still heavily recommend getting this one. SEWT makes uploading and updating your mods very easy, provided we do a little setup beforehand. For now, download the latest release (click on `Assets` and download the `ZIP` file), then extract it into your `[Space Engineers Game folder]\Bin64\`-directory.
 
----
+___
 
 #### Scripting
 * separate SDK thingy?
 * PB SDK thingy
 * VST
 
----
+___
 
 #### 3D modelling
 If you're a student, you can get access to 3Ds Max for free. Even if you are though, you might prefer Blender as the vast majority of SE modders use it over 3Ds Max. There is better plugin support for it, so you can skip some steps when creating models for SE. Though the time saved is not large, it adds up over multiple models.
@@ -251,12 +251,14 @@ You can download and install Blender via Steam.
 
 ##### Balmung's Blender Plugin
 
----
+___
 
 #### Texture modding
 * Gimp / Photoshop
 * DDS plugins
 * TexConv
+
+___
 
 #### Audio modding
 * Audacity / Audition
