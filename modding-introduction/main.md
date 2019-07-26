@@ -239,13 +239,13 @@ You can download and install Blender via Steam.
 ##### 3Ds Max - **[Download](https://www.autodesk.com/education/free-software/3ds-max)**
 3Ds Max is the industry standard in the games industry. It's a huge thing, incredibly complex and powerful but there are also countless tutorials available for it, some directly from within the application. If you're a student, you can get 3Ds Max for free via the above link, provided you use it non-commercially. Choosing this will mainly make sense if you have previous modelling knowledge in one of the Autodesk products. This application also requires a bit less setup compared to Blender, as it includes a lot of the needed functionality by default, whereas with Blender you'll have to install plugins for it.
 
-##### MWM Builder (MwmB) - **[Download]()**
+##### MWM Builder (MwmB) - **[Download](https://forum.keenswh.com/threads/mwmbuilder-fixes.7391806/)**
 
-##### Havok Content Tools - **[Download]()**
+##### Havok Content Tools - **[Download 32bit](https://drive.google.com/file/d/0B5eyoHq4QGl3NUtDT0dwSTg5ZzQ/view) / [Download 64bit](https://drive.google.com/file/d/0B5eyoHq4QGl3N3ZnVnVtWkZ1bHM/view)**
 
-##### FBXImporter - **[Download]()**
+##### FBXImporter - **[Download](https://drive.google.com/file/d/1JIaMWpY4pLGrcuAiEbd2ZBBBt6W1vkEb/view)**
 
-##### Balmung's Blender Plugin - **[Download]()**
+##### Balmung's Blender Plugin - **[Download](https://github.com/hotohori/se-blender/releases/tag/0.9.1)**
 
 ___
 
