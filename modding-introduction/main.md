@@ -239,14 +239,25 @@ You can download and install Blender via Steam.
 ##### 3Ds Max - **[Download](https://www.autodesk.com/education/free-software/3ds-max)**
 3Ds Max is the industry standard in the games industry. It's a huge thing, incredibly complex and powerful but there are also countless tutorials available for it, some directly from within the application. If you're a student, you can get 3Ds Max for free via the above link, provided you use it non-commercially. Choosing this will mainly make sense if you have previous modelling knowledge in one of the Autodesk products. This application also requires a bit less setup compared to Blender, as it includes a lot of the needed functionality by default, whereas with Blender you'll have to install plugins for it.
 
-##### MWM Builder (MwmB) - **[Download](https://forum.keenswh.com/threads/mwmbuilder-fixes.7391806/)**
+##### Eikester's MWM Builder (MwmB) - **[Download](https://forum.keenswh.com/threads/mwmbuilder-fixes.7391806/)**
+MwmB is the tool used to convert models you've created in your 3D application into the format used by the game. It is contained within the ModSDK, but Eikester maintains an improved version of the tool which provides more debug output to tell you if something went wrong - and what.
+
+Download it and place the contents within the `[SE Modding folder]\tools\MwmB\`-directory. 
 
 ##### Havok Content Tools - **[Download 32bit](https://drive.google.com/file/d/0B5eyoHq4QGl3NUtDT0dwSTg5ZzQ/view) / [Download 64bit](https://drive.google.com/file/d/0B5eyoHq4QGl3N3ZnVnVtWkZ1bHM/view)**
+The Havok Content Tools is what we need to use to create the collision models for our new 3D models. They contain a standalone application, but we'll mainly be using them from within Blender or 3Ds Max. Note that the Havok only supports fairly outdated 3Ds Max versions though (3Ds Max 2011, 3Ds Max 2012).
+
+Download the version corresponding with your operating system type and install it into the `[SE Modding folder]\tools\Havok\`-directory.
 
 ##### FBXImporter - **[Download](https://drive.google.com/file/d/1JIaMWpY4pLGrcuAiEbd2ZBBBt6W1vkEb/view)**
+This plugin you will only require if you plan to use Blender. Blender does not support the `FBX` format out of the box, as such you will need to get this plugin to enable that.
+
+Download and place the `.exe` into the `[SE Modding folder]\tools\`-directory.
 
 ##### Balmung's Blender Plugin - **[Download](https://github.com/hotohori/se-blender/releases/tag/0.9.1)**
+This plugin is what makes creating models for SE with Blender much easier. It was originally created by Harag, but Balmung has forked it and maintains it. 
 
+Download the `.zip` file and place it into the `[SE Modding folder]\tools\`-directory without unpacking it.
 ___
 
 #### Texture modding
