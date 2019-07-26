@@ -28,13 +28,13 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
       - [FBXImporter](#fbximporter)
       - [Balmung's Blender Plugin](#balmung-s-blender-plugin)
     + [Texture modding](#texture-modding-1)
-      - [Gimp - **[Download]()**](#gimp------download-----)
+      - [Gimp](#gimp)
       - [Adobe Photoshop](#adobe-photoshop)
-      - [Gimp DDS Plugin - **[Download]()**](#gimp-dds-plugin------download-----)
-      - [Intel Textureworks Plugin - **[Download]()**](#intel-textureworks-plugin------download-----)
+      - [Gimp DDS Plugin](#gimp-dds-plugin)
+      - [Intel Textureworks Plugin](#intel-textureworks-plugin)
       - [TexConv](#texconv)
     + [Audio modding](#audio-modding-1)
-      - [Audacity - **[Download]()**](#audacity------download-----)
+      - [Audacity](#audacity)
       - [Adobe Audition](#adobe-audition)
 - [What now?](#what-now-)
 
@@ -289,13 +289,16 @@ ___
 
 #### Texture modding
 
-##### Gimp - **[Download]()**
+##### Gimp
+**[Download]()**
 
 ##### Adobe Photoshop
 
-##### Gimp DDS Plugin - **[Download]()**
+##### Gimp DDS Plugin
+**[Download]()**
 
-##### Intel Textureworks Plugin - **[Download]()**
+##### Intel Textureworks Plugin
+**[Download]()**
 
 ##### TexConv
 
@@ -303,7 +306,8 @@ ___
 
 #### Audio modding
 
-##### Audacity - **[Download]()**
+##### Audacity
+**[Download]()**
 
 ##### Adobe Audition
 
