@@ -44,7 +44,7 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
 * pictures
 * hyperlinks to more detail
 * scripting: pb scripts
-* update folder structure
+* update folder structure with tools MwmB etc. and texconv
 
 ## What can I mod?
 As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
@@ -268,7 +268,7 @@ Download it and place the contents within the `[SE Modding folder]\tools\MwmB\`-
 ##### Havok Content Tools
 **[Download 32bit](https://drive.google.com/file/d/0B5eyoHq4QGl3NUtDT0dwSTg5ZzQ/view) / [Download 64bit](https://drive.google.com/file/d/0B5eyoHq4QGl3N3ZnVnVtWkZ1bHM/view)**
 
-The Havok Content Tools is what we need to use to create the collision models for our new 3D models. They contain a standalone application, but we'll mainly be using them from within Blender or 3Ds Max. Note that the Havok only supports fairly outdated 3Ds Max versions though (3Ds Max 2011, 3Ds Max 2012).
+The Havok Content Tools is what we need to use to create the collision models for our new 3D models. They contain a standalone application, but we'll mainly be using them from within Blender or 3Ds Max. Note that the Havok only supports fairly outdated 3Ds Max versions though (3Ds Max 2014 being the latest supported one).
 
 Download the version corresponding with your operating system type and install it into the `[SE Modding folder]\tools\Havok\`-directory.
 
@@ -288,19 +288,22 @@ Download the `.zip` file and place it into the `[SE Modding folder]\tools\`-dire
 ___
 
 #### Texture modding
+For texture modding the situation is a bit different from 3D modelling: While Gimp is the free option, it also involves more of a hassle in usage as Adobe Photoshop has much better support for the file formats involved. But there unfortunately isn't really a student version of Photoshop or something along those lines, and the subscription needed is fairly pricey.
 
 ##### Gimp
-**[Download]()**
+**[Download](https://www.gimp.org/downloads/)**
+
+Gimp is free and open source. It doesn't have as much functionality as Photoshop out of the box, but there are countless plugins available for it that introduce this missing functionality. Gimp does not support `DDS` texture files in the compression that SE uses (`BC7`), so we'll have to rely on an external application to convert textures back and forth from DDS to a Gimp-readable format.
 
 ##### Adobe Photoshop
 
-##### Gimp DDS Plugin
-**[Download]()**
+Adobe Photoshop is a solid but expensive choice. It doesn't support DDS import or export out of the box, but there's a plugin for it that enables that functionality.
+
+##### TexConv
+**[Download](https://github.com/Mirzipan/TexConvGUI/blob/master/TexConvGUI/bin/x64/Release/TexConvGUI.exe)**
 
 ##### Intel Textureworks Plugin
 **[Download]()**
-
-##### TexConv
 
 ___
 
