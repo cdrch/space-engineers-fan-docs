@@ -297,22 +297,29 @@ Gimp is free and open source. It doesn't have as much functionality as Photoshop
 
 ##### Adobe Photoshop
 
-Adobe Photoshop is a solid but expensive choice. It doesn't support DDS import or export out of the box, but there's a plugin for it that enables that functionality.
+Adobe Photoshop is a solid but expensive choice. It doesn't support DDS import or export out of the box, but there's a plugin for it that enables that functionality. We're going to cover that a bit further down.
 
 ##### TexConv
 **[Download](https://github.com/Mirzipan/TexConvGUI/blob/master/TexConvGUI/bin/x64/Release/TexConvGUI.exe)**
 
-##### Intel Textureworks Plugin
-**[Download]()**
+TexConv is needed to convert textures from the game format to a format usable by Gimp, 3DsMax and Blender. It is included within the ModSDK: Find it in the `SpaceEngineersModSDK\Tools\TexturePacking\Tools`-directory, and copy the `texconv.exe` into your `[SE Modding folder]\tools\TexConv\`-folder. Also download the above-linked `TexConvGUI.exe` - it offers a graphical user interface to work with texconv.exe - without it we'd have to work with command lines. You technically do not need this if you work with Photoshop only.
 
+##### Intel Textureworks Plugin
+**[Download](https://software.intel.com/en-us/articles/intel-texture-works-plugin)**
+
+This is an official Intel plugin for Photoshop. It allows Photoshop to both import and export to the DDS format used by SE directly. Download and install it is you use Photoshop.
 ___
 
 #### Audio modding
+Audio modding doesn't really require any additional tools beyond the software to work with sound itself. While SE sound files used to use a specific format, the current version supports `.wav`, so it's very simple to work with.
 
 ##### Audacity
-**[Download]()**
+**[Download](https://www.audacityteam.org/)**
+
+Audacity is a great, free program to work with sounds of all kind. I've used it for quite a while and it works perfectly well to create SE sounds, provided you know how to work the program itself of course.
 
 ##### Adobe Audition
+Adobe Audition is the Adobe Creative Suite option for sound modding. Once again, it's paid, thus there will be less people that can use it, but it's also the superior option as a result of being paid. It contains much more functionality than Audacity, but for modding SE either works fine most of the time.
 
 ## What now?
 
