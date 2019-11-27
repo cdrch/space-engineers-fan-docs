@@ -251,7 +251,7 @@ If you're a student, you can get access to 3Ds Max for free. Even if you are tho
 
 Blender is a free, open source 3D modelling application. While the industry standard is still 3Ds Max, it is gaining popularity quickly. Its interface takes some time to get used to, but there are thousands of tutorials available for Blender, so you'll have a lot of opportunities to learn the application's intricacies.
 
-You can download and install Blender via Steam.
+You can download and install Blender via Steam, but make sure you install the latest 2.79 version - not 2.8. Unfortunately the plugin necessary to work with SE has not been updated to the newest version.
 
 ##### 3Ds Max
 **[Download](https://www.autodesk.com/education/free-software/3ds-max)**
