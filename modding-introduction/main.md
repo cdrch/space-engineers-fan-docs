@@ -45,6 +45,9 @@ This guide serves as a first introduction to modding in Space Engineers (SE). If
 * hyperlinks to more detail
 * scripting: pb scripts
 * update folder structure with tools MwmB etc. and texconv
+* switch script example to something of digi's https://github.com/THDigi/SE-ModScript-Examples/tree/master/Data/Scripts/Examples/BasicExample_GameLogicAndSession
+* possibly give alternative to VS
+* link to discord for sure
 
 ## What can I mod?
 As newcomers to modding a specific game, oftentimes people will not be aware of what can and cannot be modded in the first place. And what use are the greatest plans for a mod if the game developer has disallowed access to the key files needed to make those plans reality? This chapter will expand on the different "dimensions" of modding, which each require their own expertise and tools. Knowing about these different dimensions will allow you to better understand which are relevant for your plans, and which you'd be interested in learning.
@@ -185,7 +188,7 @@ Next up is making getting to the relevant folders more convenient. Outside of th
 
 Now you are able to simply click on that shortcut to get to the Space Engineers installation folder. Then, after finding what you need in there you can simply select your SE Modding folder from the Quick access bar to go back.
 
-Let's now do the same for the next shortcut: Create the shortcut, but then enter `%USERPROFILE%\AppData\Roaming\SpaceEngineers` into the text field next to `Browse`. Name the shortcut `SpaceEngineers AppData`.
+Let's now do the same for the next shortcut: Create the shortcut, but then enter `%APPDATA%\SpaceEngineers` into the text field next to `Browse`. Name the shortcut `SpaceEngineers AppData`.
 
 The ModSDK link we'll have to skip for now because you likely haven't installed that yet. We'll come back to creating the shortcut for that later.
 
